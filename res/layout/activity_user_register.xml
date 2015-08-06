@@ -72,6 +72,7 @@
                 android:layout_height="45dp"
                 android:background="@color/transparent"
                 android:hint="推荐人手机号"
+                android:inputType="number"
                 android:paddingLeft="5dp"
                 android:textColorHint="#f2ffffff"
                 android:textSize="@dimen/text_size_normal" />
