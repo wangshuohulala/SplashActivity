@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+	<!-- 版块详情 -->
+    <item type="id" name="bankuai_tag_fid"/>
+    <item type="id" name="bankuai_tag_name"/>
+    <!-- 用户详情信息 -->
+    <item type="id" name="friend_detail_tag_id"/>
+    <item type="id" name="friend_detail_tag_name"/>
+    
+      <!-- 用户详情信息 -->
+    <item type="id" name="tiezi_reply_tag_fid"/>
+    <item type="id" name="tiezi_reply_tag_tid"/>
+    <item type="id" name="tiezi_reply_tag_message"/>
+    
+      <!-- 通知栏ID -->
+    <item type="id" name="notification_notify_posts_reply"/>
+    <item type="id" name="notification_notify_diary_reply"/>
+    <item type="id" name="notification_push_have_posts"/>
+    <item type="id" name="notification_push_have_html5"/>
+    
+
+</resources>

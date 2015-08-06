@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/order_item_time"
+                style="@style/TextWhiteSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="今天" />
+
+            <TextView
+                android:id="@+id/order_item_location"
+                style="@style/TextWhiteSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="重庆" />
+
+            <TextView
+                android:id="@+id/order_item_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="@color/cyan"
+                android:textSize="@dimen/text_size_small" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/order_item_go_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_order"
+            android:text="去接单"
+            android:textColor="@color/btn_text_color"
+            android:textSize="@dimen/text_size_normal" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+</LinearLayout><!-- From: file:/D:/Workspace6/SplashActivity/res/layout/order_item.xml -->

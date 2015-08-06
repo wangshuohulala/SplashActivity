@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr name="siArrowPosition">
+        <enum name="left" value="0"/>
+        <enum name="right" value="1"/>
+    </attr>
+    <attr name="siBorderType">
+        <enum name="stroke" value="0"/>
+        <enum name="fill" value="1"/>
+    </attr>
+    <attr name="siStrokeCap">
+        <enum name="butt" value="0"/>
+        <enum name="round" value="1"/>
+        <enum name="square" value="2"/>
+    </attr>
+    <attr name="siStrokeJoin">
+        <enum name="bevel" value="0"/>
+        <enum name="miter" value="1"/>
+        <enum name="round" value="2"/>
+    </attr>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#ff000000</color>
+    <color name="btn_text_color">#ff2f467a</color>
+    <color name="cyan">#ff79f1d1</color>
+    <color name="dark_red">#fff68694</color>
+    <color name="edit_image_bg">#ff737373</color>
+    <color name="gray">#ffb1b1b1</color>
+    <color name="hint_gray">#ff999999</color>
+    <color name="item_background">#33ffffff</color>
+    <color name="light_gray">#ff787878</color>
+    <color name="line">#eeffffff</color>
+    <color name="pink">#ffe62262</color>
+    <color name="purple">#ffb004b4</color>
+    <color name="red">#ffff0000</color>
+    <color name="separate_line">#eeffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffb400</color>
+    <declare-styleable name="ShaderImageView"><attr format="boolean" name="siSquare"/><attr format="color" name="siBorderColor"/><attr format="dimension" name="siBorderWidth"/><attr format="float" name="siBorderAlpha"/><attr format="integer|reference" name="siForeground"/><attr format="dimension" name="siRadius"/><attr name="siArrowPosition"/><attr format="dimension" name="siTriangleHeight"/><attr format="integer|reference" name="siShape"/><attr name="siBorderType"/><attr name="siStrokeCap"/><attr name="siStrokeJoin"/><attr format="dimension" name="siStrokeMiter"/></declare-styleable>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_tab_height">56dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btn_item_height">45dp</dimen>
+    <dimen name="head_bar_height">45dp</dimen>
+    <dimen name="home_bottom_bar_height">60dp</dimen>
+    <dimen name="img_logo_size_large">85dp</dimen>
+    <dimen name="img_logo_size_normal">65dp</dimen>
+    <dimen name="img_logo_size_small">45dp</dimen>
+    <dimen name="img_logo_size_very_large">120dp</dimen>
+    <dimen name="img_logo_size_verysmall">30dp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_very_large">24sp</dimen>
+    <dimen name="text_size_very_small">12sp</dimen>
+    <dimen name="title_bar_height">48dp</dimen>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/colors.xml -->
+    <eat-comment/>
+    <drawable name="transparent_drawable">#00ffffff</drawable>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="bankuai_tag_fid" type="id"/>
+    <item name="bankuai_tag_name" type="id"/>
+    <item name="friend_detail_tag_id" type="id"/>
+    <item name="friend_detail_tag_name" type="id"/>
+    <item name="notification_notify_diary_reply" type="id"/>
+    <item name="notification_notify_posts_reply" type="id"/>
+    <item name="notification_push_have_html5" type="id"/>
+    <item name="notification_push_have_posts" type="id"/>
+    <item name="tiezi_reply_tag_fid" type="id"/>
+    <item name="tiezi_reply_tag_message" type="id"/>
+    <item name="tiezi_reply_tag_tid" type="id"/>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">关于</string>
+    <string name="about_us">关于我们</string>
+    <string name="add">添加</string>
+    <string name="app_name">馒头洗车</string>
+    <string name="back">返回</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="free">免费</string>
+    <string name="get_vertify_code">获取验证码</string>
+    <string name="hint">提示</string>
+    <string name="known">知道了</string>
+    <string name="loading">正在加载…</string>
+    <string name="login">登录</string>
+    <string name="login_success">登录成功</string>
+    <string name="ok">确定</string>
+    <string name="operation_success">操作成功</string>
+    <string name="press_once_again_exit_app">再按一次退出程序</string>
+    <string name="register">注册</string>
+    <string name="register_success">注册成功</string>
+    <string name="search">搜索</string>
+    <string name="send">发送</string>
+    <string name="share">分享</string>
+    <string name="submit">提交</string>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <!-- <item name="android:background">@android:color/transparent</item> -->
+        <item name="android:windowBackground">@drawable/activity_background</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/D:/Workspace6/SplashActivity/res/values/text_styles.xml -->
+    <eat-comment/>
+    <style name="TextBlackLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextBlackNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextBlackSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextBlackVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextBlackVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextGrayLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextGrayNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextGraySmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextGrayVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextPurpleLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/purple</item>
+    </style>
+    <style name="TextPurpleNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/purple</item>
+    </style>
+    <style name="TextPurpleSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/purple</item>
+    </style>
+    <style name="TextPurpleVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/purple</item>
+    </style>
+    <style name="TextPurpleVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/purple</item>
+    </style>
+    <style name="TextWGrayVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextWhiteLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextWhiteNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextWhiteSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextWhiteVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextWhiteVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <include layout="@layout/title_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp" >
+
+            <Spinner
+                android:id="@+id/user_reg_address_province"
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+
+            <Spinner
+                android:id="@+id/user_reg_address_city"
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+
+            <EditText
+                android:id="@+id/user_reg_address_detail"
+                style="@style/TextWhiteNormal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/transparent"
+                android:hint="详细地址"
+                android:maxLines="5"
+                android:minHeight="45dp"
+                android:paddingLeft="5dp"
+                android:textColorHint="#f2ffffff"
+                android:textSize="@dimen/text_size_normal" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#aaffffff" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/user_reg_address_next"
+            style="@style/TextBlackLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/btn_single"
+            android:text="下一步"
+            android:textColor="@color/btn_text_color" />
+    </LinearLayout>
+
+</LinearLayout>

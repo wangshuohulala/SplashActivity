@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_bar_height"
+    android:gravity="center_vertical" >
+
+    <ImageView
+        android:id="@+id/titlebar_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:padding="10dp"
+        android:onClick="titleBarBack"
+        android:src="@drawable/titlebar_back" />
+
+    <TextView
+        android:id="@+id/titlebar_title"
+        style="@style/TextWhiteLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/app_name" />
+
+    <TextView
+        android:id="@+id/titlebar_right_text"
+        style="@style/TextWhiteNormal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/titlebar_right_progress"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15.0dip"
+        android:indeterminateOnly="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

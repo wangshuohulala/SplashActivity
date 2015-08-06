@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <include layout="@layout/title_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/ic_car_wash_start" />
+
+        <TextView
+            style="@style/TextWhiteNormal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center_vertical"
+            android:text="我已开始洗车"
+            android:textColor="@color/cyan" />
+
+         <TextView
+            style="@style/TextWhiteNormal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:text="洗车完成后点击下方按钮"
+            android:textColor="@color/cyan" />
+
+        <Button
+            android:id="@+id/car_wash_start_ok"
+            style="@style/TextBlackLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:onClick="onClick"
+            android:background="@drawable/btn_single"
+            android:text="洗车完成"
+            android:textColor="@color/btn_text_color" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/Workspace6/SplashActivity/res/layout/activity_car_wash_finish.xml -->

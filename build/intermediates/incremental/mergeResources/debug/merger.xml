@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Workspace6\SplashActivity\res"><file name="ic_launcher" path="D:\Workspace6\SplashActivity\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="D:\Workspace6\SplashActivity\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="activity_background" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\activity_background.png" qualifiers="xxhdpi" type="drawable"/><file name="bg_edit" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\bg_edit.png" qualifiers="xxhdpi" type="drawable"/><file name="bg_order_detail_up" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\bg_order_detail_up.png" qualifiers="xxhdpi" type="drawable"/><file name="btn_order" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\btn_order.png" qualifiers="xxhdpi" type="drawable"/><file name="btn_single" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\btn_single.png" qualifiers="xxhdpi" type="drawable"/><file name="btn_two" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\btn_two.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_add_avatar" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_add_avatar.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_add_avatar_old" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_add_avatar_old.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_arrow_right" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_arrow_right.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_car_wash_add_photo" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_car_wash_add_photo.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_car_wash_start" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_car_wash_start.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_circle_arrow_down" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_circle_arrow_down.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_circle_arrow_right" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_circle_arrow_right.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_launcher" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_main_order" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_main_order.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_main_shouru" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_main_shouru.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_main_tuiguang" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_main_tuiguang.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_order_detail_address" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_order_detail_address.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_order_detail_mark" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_order_detail_mark.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_order_detail_phone" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_order_detail_phone.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_order_finish" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\ic_order_finish.png" qualifiers="xxhdpi" type="drawable"/><file name="titlebar_back" path="D:\Workspace6\SplashActivity\res\drawable-xxhdpi\titlebar_back.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_car_wash_finish" path="D:\Workspace6\SplashActivity\res\layout\activity_car_wash_finish.xml" qualifiers="" type="layout"/><file name="activity_income_list" path="D:\Workspace6\SplashActivity\res\layout\activity_income_list.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Workspace6\SplashActivity\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_my_promotion" path="D:\Workspace6\SplashActivity\res\layout\activity_my_promotion.xml" qualifiers="" type="layout"/><file name="activity_order" path="D:\Workspace6\SplashActivity\res\layout\activity_order.xml" qualifiers="" type="layout"/><file name="activity_order_cancel" path="D:\Workspace6\SplashActivity\res\layout\activity_order_cancel.xml" qualifiers="" type="layout"/><file name="activity_order_detail" path="D:\Workspace6\SplashActivity\res\layout\activity_order_detail.xml" qualifiers="" type="layout"/><file name="activity_order_finish" path="D:\Workspace6\SplashActivity\res\layout\activity_order_finish.xml" qualifiers="" type="layout"/><file name="activity_splash" path="D:\Workspace6\SplashActivity\res\layout\activity_splash.xml" qualifiers="" type="layout"/><file name="activity_user_login" path="D:\Workspace6\SplashActivity\res\layout\activity_user_login.xml" qualifiers="" type="layout"/><file name="activity_user_register" path="D:\Workspace6\SplashActivity\res\layout\activity_user_register.xml" qualifiers="" type="layout"/><file name="activity_user_reg_address" path="D:\Workspace6\SplashActivity\res\layout\activity_user_reg_address.xml" qualifiers="" type="layout"/><file name="activity_wash_add_photo" path="D:\Workspace6\SplashActivity\res\layout\activity_wash_add_photo.xml" qualifiers="" type="layout"/><file name="activit_add_identity_card" path="D:\Workspace6\SplashActivity\res\layout\activit_add_identity_card.xml" qualifiers="" type="layout"/><file name="income_child_item" path="D:\Workspace6\SplashActivity\res\layout\income_child_item.xml" qualifiers="" type="layout"/><file name="income_group_item" path="D:\Workspace6\SplashActivity\res\layout\income_group_item.xml" qualifiers="" type="layout"/><file name="order_detail_status_layout" path="D:\Workspace6\SplashActivity\res\layout\order_detail_status_layout.xml" qualifiers="" type="layout"/><file name="order_item" path="D:\Workspace6\SplashActivity\res\layout\order_item.xml" qualifiers="" type="layout"/><file name="title_bar" path="D:\Workspace6\SplashActivity\res\layout\title_bar.xml" qualifiers="" type="layout"/><file name="imgview_diamond" path="D:\Workspace6\SplashActivity\res\raw\imgview_diamond.svg" qualifiers="" type="raw"/><file name="imgview_heart" path="D:\Workspace6\SplashActivity\res\raw\imgview_heart.svg" qualifiers="" type="raw"/><file name="imgview_hexagon" path="D:\Workspace6\SplashActivity\res\raw\imgview_hexagon.svg" qualifiers="" type="raw"/><file name="imgview_octogon" path="D:\Workspace6\SplashActivity\res\raw\imgview_octogon.svg" qualifiers="" type="raw"/><file name="imgview_pentagon" path="D:\Workspace6\SplashActivity\res\raw\imgview_pentagon.svg" qualifiers="" type="raw"/><file name="imgview_star" path="D:\Workspace6\SplashActivity\res\raw\imgview_star.svg" qualifiers="" type="raw"/><file path="D:\Workspace6\SplashActivity\res\values\attrs.xml" qualifiers=""><declare-styleable name="ShaderImageView">
+        <attr format="boolean" name="siSquare"/>
+        <attr format="color" name="siBorderColor"/>
+        <attr format="dimension" name="siBorderWidth"/>
+        <attr format="float" name="siBorderAlpha"/>
+        <attr format="integer|reference" name="siForeground"/>
+        <!-- Rounded Image View -->
+        <attr format="dimension" name="siRadius"/>
+        <!--BubbleImageView-->
+        <attr name="siArrowPosition"/>
+        <attr format="dimension" name="siTriangleHeight"/>
+        <!--PorterImageView-->
+        <attr format="integer|reference" name="siShape"/>
+        <!--ShaderImageView-->
+        <attr name="siBorderType"/>
+        <attr name="siStrokeCap"/>
+        <attr name="siStrokeJoin"/>
+        <attr format="dimension" name="siStrokeMiter"/>
+    </declare-styleable><attr name="siStrokeJoin">
+        <enum name="bevel" value="0"/>
+        <enum name="miter" value="1"/>
+        <enum name="round" value="2"/>
+    </attr><attr name="siStrokeCap">
+        <enum name="butt" value="0"/>
+        <enum name="round" value="1"/>
+        <enum name="square" value="2"/>
+    </attr><attr name="siArrowPosition">
+        <enum name="left" value="0"/>
+        <enum name="right" value="1"/>
+    </attr><attr name="siBorderType">
+        <enum name="stroke" value="0"/>
+        <enum name="fill" value="1"/>
+    </attr></file><file path="D:\Workspace6\SplashActivity\res\values\colors.xml" qualifiers=""><color name="red">#ffff0000</color><color name="item_background">#33ffffff</color><drawable name="transparent_drawable">#00ffffff</drawable><color name="light_gray">#ff787878</color><color name="btn_text_color">#ff2f467a</color><color name="yellow">#ffffb400</color><color name="dark_red">#fff68694</color><color name="black">#ff000000</color><color name="separate_line">#eeffffff</color><color name="line">#eeffffff</color><color name="hint_gray">#ff999999</color><color name="pink">#ffe62262</color><color name="gray">#ffb1b1b1</color><color name="transparent">#00000000</color><color name="purple">#ffb004b4</color><color name="cyan">#ff79f1d1</color><color name="edit_image_bg">#ff737373</color><color name="white">#ffffffff</color></file><file path="D:\Workspace6\SplashActivity\res\values\dimens.xml" qualifiers=""><dimen name="text_size_very_small">12sp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="img_logo_size_large">85dp</dimen><dimen name="btn_item_height">45dp</dimen><dimen name="img_logo_size_normal">65dp</dimen><dimen name="home_bottom_bar_height">60dp</dimen><dimen name="text_size_small">14sp</dimen><dimen name="head_bar_height">45dp</dimen><dimen name="text_size_large">20sp</dimen><dimen name="img_logo_size_very_large">120dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="img_logo_size_small">45dp</dimen><dimen name="text_size_normal">16sp</dimen><dimen name="activity_tab_height">56dp</dimen><dimen name="text_size_very_large">24sp</dimen><dimen name="title_bar_height">48dp</dimen><dimen name="img_logo_size_verysmall">30dp</dimen></file><file path="D:\Workspace6\SplashActivity\res\values\ids.xml" qualifiers=""><item name="tiezi_reply_tag_tid" type="id"/><item name="friend_detail_tag_id" type="id"/><item name="bankuai_tag_fid" type="id"/><item name="tiezi_reply_tag_fid" type="id"/><item name="notification_push_have_posts" type="id"/><item name="notification_notify_posts_reply" type="id"/><item name="tiezi_reply_tag_message" type="id"/><item name="notification_notify_diary_reply" type="id"/><item name="friend_detail_tag_name" type="id"/><item name="bankuai_tag_name" type="id"/><item name="notification_push_have_html5" type="id"/></file><file path="D:\Workspace6\SplashActivity\res\values\strings.xml" qualifiers=""><string name="register">注册</string><string name="about_us">关于我们</string><string name="submit">提交</string><string name="free">免费</string><string name="app_name">馒头洗车</string><string name="known">知道了</string><string name="back">返回</string><string name="add">添加</string><string name="press_once_again_exit_app">再按一次退出程序</string><string name="cancel">取消</string><string name="get_vertify_code">获取验证码</string><string name="ok">确定</string><string name="share">分享</string><string name="send">发送</string><string name="operation_success">操作成功</string><string name="hint">提示</string><string name="loading">正在加载…</string><string name="delete">删除</string><string name="search">搜索</string><string name="register_success">注册成功</string><string name="login">登录</string><string name="login_success">登录成功</string><string name="about">关于</string></file><file path="D:\Workspace6\SplashActivity\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <!-- <item name="android:background">@android:color/transparent</item> -->
+        <item name="android:windowBackground">@drawable/activity_background</item>
+        <item name="android:windowNoTitle">true</item>
+    </style></file><file path="D:\Workspace6\SplashActivity\res\values\text_styles.xml" qualifiers=""><style name="TextWhiteLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="TextBlackVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="TextGrayVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/gray</item>
+    </style><style name="TextPurpleVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/purple</item>
+    </style><style name="TextPurpleLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/purple</item>
+    </style><style name="TextBlackVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="TextGrayLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/gray</item>
+    </style><style name="TextGrayNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/gray</item>
+    </style><style name="TextWGrayVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/gray</item>
+    </style><style name="TextWhiteSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="TextBlackSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="TextBlackLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="TextBlackNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="TextGraySmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/gray</item>
+    </style><style name="TextWhiteVerySmall">
+        <item name="android:textSize">@dimen/text_size_very_small</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="TextPurpleSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/purple</item>
+    </style><style name="TextPurpleVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/purple</item>
+    </style><style name="TextWhiteVeryLarge">
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="TextWhiteNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="TextPurpleNormal">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/purple</item>
+    </style></file></source><source path="D:\Workspace6\SplashActivity\build\generated\res\rs\debug"/><source path="D:\Workspace6\SplashActivity\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="D:\Workspace6\SplashActivity\build-types\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ShaderImageView"><attr format="boolean" name="siSquare"/><attr format="color" name="siBorderColor"/><attr format="dimension" name="siBorderWidth"/><attr format="float" name="siBorderAlpha"/><attr format="integer|reference" name="siForeground"/><attr format="dimension" name="siRadius"/><attr name="siArrowPosition"/><attr format="dimension" name="siTriangleHeight"/><attr format="integer|reference" name="siShape"/><attr name="siBorderType"/><attr name="siStrokeCap"/><attr name="siStrokeJoin"/><attr format="dimension" name="siStrokeMiter"/></declare-styleable></configuration></mergedItems></merger>

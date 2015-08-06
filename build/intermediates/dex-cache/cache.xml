@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace6\SplashActivity\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="D:\Workspace6\SplashActivity\build\intermediates\pre-dexed\debug\android-support-v4-617274fa2fb323ee9da20e2d29d978e76d1d60ab.jar" />
+    </item>
+    <item
+        jar="D:\Workspace6\SplashActivity\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\Workspace6\SplashActivity\build\intermediates\pre-dexed\debug\httpmime-4.1.3-5c2fe7512a243083600b193402e9d05cb8fbd163.jar" />
+    </item>
+    <item
+        jar="D:\Workspace6\SplashActivity\libs\kxml2-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="D:\Workspace6\SplashActivity\build\intermediates\pre-dexed\debug\kxml2-2.3.0-eef4b5f2ace8945a9e82d0927f448de95c183bd0.jar" />
+    </item>
+    <item
+        jar="D:\Workspace6\SplashActivity\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\Workspace6\SplashActivity\build\intermediates\pre-dexed\debug\gson-2.2.4-8c2f81a5dd3217adf97143d7939a3c97390e5ec2.jar" />
+    </item>
+    <item
+        jar="D:\Workspace6\SplashActivity\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="D:\Workspace6\SplashActivity\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-with-sources-77a3708014b0f46bfa40b708a563215ef6dcb274.jar" />
+    </item>
+    <item
+        jar="D:\Workspace6\SplashActivity\libs\locSDK_6.03.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f97b00e2e5a384be96ab4d668fa3e2ff62cdbbb7">
+        <dex dex="D:\Workspace6\SplashActivity\build\intermediates\pre-dexed\debug\locSDK_6.03-2c100ad641326cfbfd77f32ac04890cfcf4ed8b3.jar" />
+    </item>
+
+</items>

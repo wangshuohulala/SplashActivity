@@ -1,0 +1,35 @@
+
+<resources>
+	<!-- 基础颜色 -->
+
+	<drawable name="transparent_drawable">#00ffffff</drawable>
+	<color name="red">#ffff0000</color>
+	<color name="white">#ffffffff</color>
+	<color name="black">#ff000000</color>
+	<color name="gray">#ffb1b1b1</color>
+	<color name="hint_gray">#ff999999</color>
+	<color name="light_gray">#ff787878</color>
+	<color name="pink">#ffe62262</color>
+	<color name="purple">#ffb004b4</color>
+	<color name="yellow">#ffffb400</color>
+	
+	
+	
+	<!-- 特有颜色 -->
+	
+	<color name="cyan">#ff79f1d1</color>
+	<color name="dark_red">#fff68694</color>
+	<color name="btn_text_color">#ff2f467a</color><!-- 登录字体颜色 -->
+	<color name="item_background">#33ffffff</color><!-- 全部订单背影色 -->
+	
+	<!-- 分隔线 -->
+	<color name="separate_line">#eeffffff</color>
+	<color name="line">#eeffffff</color>
+	
+	<color name="edit_image_bg">#ff737373</color>
+	
+	
+	
+    <color name="transparent">#00000000</color>
+    
+</resources>
